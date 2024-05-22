@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(235, 102, 142);
+    background-color: rgb(255, 187, 208);
     background-image: url(../img/tay.jpg);
     background-repeat: no-repeat;
 }
@@ -50,7 +50,7 @@ section{
 footer{
    
     padding: 3%;
-    background-color: rgb(253, 94, 121);
+    background-color: rgb(230, 88, 112);
 }
 
 ul{
@@ -58,14 +58,22 @@ ul{
 }
 
 h2{
-    background-color: rgb(245, 171, 196);
+    background-color: rgba(226, 124, 124, 0.562);
     color: white;
     font-size: 1.5em;
+    border: 3px solid white;
 }
 
 h1{
     font-size: 2em;
     color: white;
+    padding-right: 220px;
+    border: 3px solid rgb(255, 255, 255);
+    padding: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(48, 48, 48, 0.486);
+    text-shadow: 1px black;
 }
 
 .cabecalho{
