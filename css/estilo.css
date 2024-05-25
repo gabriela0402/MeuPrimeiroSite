@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(7, 2, 53);
-    background-image: url(../img/taylorswifttheerastour.png ) ;
-    background-size:  1500px;;
-    background-repeat: no-repeat;
+    background-color: #B1A2BE;
+    background-image: url(../img/esse.jpg) ;
+    background-size: 40cm 17cm ;
+    
     color:white;
     text-shadow: 0,5cm;
 }
@@ -21,7 +21,7 @@ header{
 }
 #menu ul li{
     display: inline;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 #menu ul li a {
@@ -33,7 +33,7 @@ header{
     
 }
 .logo img{
-    width: 35%;
+    width: 80%;
     height: auto;
     max-width: 100%;
     
@@ -53,16 +53,15 @@ section{
 footer{
    
     padding: 3%;
-    background-color: rgb(110, 112, 241);
+    background-color: rgb(0, 0, 0);
 }
 
 ul{
-    background-color: rgb(0, 0, 0);
+    background-color: rgba(255, 254, 254, 0.685);
     
 }
 
 h2{
-    background-color: rgba(51, 57, 114, 0.562);
     color: white;
     font-size: 1.5em;
     border: 3px solid white;
@@ -76,7 +75,7 @@ h1{
     padding: 3px;
     margin-left: auto;
     margin-right: auto;
-    background-color: rgba(48, 48, 48, 0.486);
+    background-color: rgba(0, 0, 0, 0.767);
     text-shadow: 1px black;
 }
 
@@ -98,6 +97,8 @@ p{
     line-height: 1.5;
     font-size: 1.2em;
     text-align: justify;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    
 }
 
 .caixa-imagem{
@@ -121,5 +122,12 @@ figure img{
 figure figcaption{
     margin: 1.0em;
     text-align: center;
-    color: rgb(182, 179, 192);
+    color: rgb(255, 255, 255);
+}
+
+img{
+    block-size: 15cm;
+    border-radius: 0,8cm;
+    box-shadow: 2cm black;
+    border: 3px solid white;
 }
