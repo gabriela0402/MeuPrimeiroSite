@@ -74,26 +74,12 @@ nav ul {
     display: flex;
 }
 
-/* #menu ul li { 
-    display: inline; 
-    font-size: 1.2em;
-} */
+
 nav ul li {
     margin: 0 10px;
 }
 
-/* #menu ul li:last-child {
-    margin-right: 0;
-} */
 
-/* #menu ul li a {     
-    padding: 2px 10px; 
-    display: inline-block;    
-    text-decoration: none; 
-    /* border-bottom:3px solid #EDEDED;  
-    white-space: nowrap;
-    color: #fff;
-} */
 nav ul li a {
     color: white;
     text-decoration: none;
@@ -184,16 +170,6 @@ ul{
     background-color: rgba(255, 254, 254, 0.685);
     
 }
-
-
-
-
-
-
-
-
-
-
 
 .caixa-imagem{
     text-align: center;
